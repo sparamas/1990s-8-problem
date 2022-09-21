@@ -1,4 +1,4 @@
-# 1990s-8-problem
+# 1990s-8-problem and Cidr block
 
 ![Screen Shot 2022-09-21 at 9 37 14 AM](https://user-images.githubusercontent.com/13231217/191534053-812beb1e-eb5b-4af4-9eb4-22a5272d5628.png)
 
@@ -22,7 +22,7 @@ CIDR block
 2 power 12 = 4,096
 Total Ip address for 4096
 ----------------------
-20 is 32 bit, it is in octec like this
+20 is 32 bit, it is in octet like this
 11111111. 11111111. 11110000.00000000
  trun them 1 ->0 and 0->1
 Finding ending range
