@@ -31,7 +31,7 @@ Finding ending range
 00000000 = 0
 00001111->2 power 4 = 16 -1 = 15
 11111111->2 power 8 =256-1 = 255
-now end rage is
+now end range is
 0.0.15.255
 
 ```
