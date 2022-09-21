@@ -35,4 +35,17 @@ now end rage is
 0.0.15.255
 
 ```
+```
+how to get only 16 ip addresss?
+using this cidr block 10.0.0.0/20
+32-28 =4
+2 power 4 =16
+so cidr range should be 10.0.0.0/28
+
+
+
+
+
+```
+
 
